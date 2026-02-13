@@ -21,3 +21,6 @@ This project provides a comprehensive analysis of sales performance data, focusi
 - Date-wise sales and profit data
 
 ## Dashboard LINK -> [Tableau Public LINK](https://public.tableau.com/app/profile/somendra.singh7047/viz/SalesDashboard_17708905490220/Dashboard)
+
+![Project Screenshot](Dashboard.png)
+
